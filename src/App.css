@@ -1,0 +1,16 @@
+.App {
+  background: rgb(238, 69, 64);
+  height: 100vh;
+
+  background: rgb(238,174,202);
+  background: rgb(238,174,202);
+  background: radial-gradient(
+  circle, 
+  rgba(238,174,202,1) 33%, 
+  rgba(38,32,126,1) 75%);
+}
+
+/*.text-center {
+  padding: 1rem 0.5rem;
+  
+}*/
